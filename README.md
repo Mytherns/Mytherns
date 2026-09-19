@@ -2,17 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20Christofer%20Matthew&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
-<h1 align="center">[Christofer Matthew]</h1>
-<p align="center">[Mahasiswa Computer Science and Mathematics Binus @Kemanggisan]</p>
+<h1 align="center">Christofer Matthew</h1>
+<p align="center">Mahasiswa Computer Science and Mathematics Binus @Kemanggisan</p>
 
 ---
 
 ### Details / About Me
 
-- **Pekerjaan Saat ini**: [Mahasiswa di BINUS University]
-- **Sedang mendalami**: [Computer Science and Mathematics]
-- **Target**: [Menjadi Data Engineer]
-- **Fun fact**: [adhd dikit]
+- **Pekerjaan Saat ini**: Mahasiswa di BINUS University
+- **Sedang mendalami**: Computer Science and Mathematics
+- **Target**: Menjadi Data Engineer
+- **Fun fact**: adhd dikit
 
 ---
 
