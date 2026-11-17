@@ -11,8 +11,6 @@
 
 - **Pekerjaan Saat ini**: Mahasiswa di BINUS University
 - **Sedang mendalami**: Computer Science and Mathematics
-- **Target**: Menjadi Data Engineer
-- **Fun fact**: adhd dikit
 
 ---
 
@@ -44,11 +42,7 @@
 
 ---
 
-### GitHub Stats (opsional)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mytherns&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
 
 <!--
   Ganti "USERNAME_KAMU" dengan username GitHub kamu.
